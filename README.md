@@ -88,9 +88,4 @@ By completing this project, you will understand how to:
 Happy coding 🚀
 
 ```
-
----
-
-
-Just tell me 👊
 ```
